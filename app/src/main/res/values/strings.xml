@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Books</string>
+    <!-- Actions -->
+    <string name="action_settings">Settings</string>
+    <!-- Books Activity -->
+    <string name="title_activity_book">Book Activity</string>
+    <string name="msg_books_search_hint">Type book title here</string>
+    <!-- BookDetail Activity -->
+    <string name="title_activity_book_detail">Book Details Activity</string>
+    <string name="msg_fetching_more_books">Fetching more items..</string>
+</resources>
